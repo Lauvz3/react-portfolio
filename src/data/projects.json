@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Grab n' Go",
+    "imageSrc": "projects/kiosk.jpg",
+    "description": " Kiosk Design for the Food Court in the University",
+    "skills": ["Figma", "Build", "3D Printing"],
+    "demo": "https://docs.google.com/presentation/d/1HIU7CAyDKcFeKUzJ146eamnLhIirFh1LQSqE7UuKrYY/edit?usp=sharing"
+    
+  },
+  {
+    "title": "Class Compass",
+    "imageSrc": "projects/course.jpg",
+    "description": "Course & Career Planner for College Students",
+    "skills": ["Figma", "UX Design", "Hifi Prototype"],
+    "demo": "https://shh0206.wixsite.com/classcompasscogs123"
+
+  },
+  {
+    "title": "X-Glasses",
+    "imageSrc": "projects/glass.jpg",
+    "description": "Concept Design for Visually Impaired People",
+    "skills": ["Concept", "3D Model", "User Research"],
+    "demo": "https://drive.google.com/file/d/1CTgFMb6pwMjqOGl29da7SufVUkxaA2Ax/view?usp=drive_link"
+  }
+]
